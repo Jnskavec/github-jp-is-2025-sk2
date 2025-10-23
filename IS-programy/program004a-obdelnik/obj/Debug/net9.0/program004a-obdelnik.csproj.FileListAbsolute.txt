@@ -3,3 +3,13 @@ C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelni
 C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.AssemblyInfo.cs
 C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.csproj.CoreCompileInputs.cache
 C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.sourcelink.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.exe
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.deps.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.runtimeconfig.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.pdb
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\obj\Debug\net9.0\refint\program004a-obdelnik.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.pdb
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.genruntimeconfig.cache
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program004a-obdelnik\obj\Debug\net9.0\ref\program004a-obdelnik.dll
