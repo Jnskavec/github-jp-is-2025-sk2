@@ -1,54 +1,53 @@
-﻿string again = "a";
+﻿﻿string again = "a";
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("********************************************");
-    Console.WriteLine("************ Součet cifer ******************");
-    Console.WriteLine("********************************************");
-    Console.WriteLine("********************************************");
-    Console.WriteLine("************* Jan Prskavec *****************");
-    Console.WriteLine("************** 2.10.2025 *******************");
-    Console.WriteLine("********************************************");
-    Console.WriteLine("********************************************");
+    Console.WriteLine("************************************************");
+    Console.WriteLine("*********** Součet a součin cifer  *************");
+    Console.WriteLine("************************************************");
+    Console.WriteLine("************************************************");
+    Console.WriteLine("************* Tomáš Žižka **********************");
+    Console.WriteLine("************** 2.10.2025 ***********************");
+    Console.WriteLine("************************************************");
+    Console.WriteLine("************************************************");
     Console.WriteLine();
 
-    // Vstup hodnoty do programu, ale špatně řešený
-    //Console.Write("Zadejte první číslo řady: ");
-    //int first = int.Parse(Console.ReadLine());
+    Console.Write("Zadejte celé číslo: ");
+    int number;
+    while (!int.TryParse(Console.ReadLine(), out number))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte ho znovu: ");
+    }
 
-    // Vstup hodnoty do programu, řešený lépe
     int suma = 0;
     int numberBackup = number;
     int digit;
 
-    //Pokud je vstup záporný, tak ho změníme na kladný
+    // Pokud je vstup záporný, tak ho změníme na kladný
     if (number < 0)
     {
         number = -number;
     }
 
-    while ()
+    while (number >= 10)
     {
-        digit = numberBackup % 10; // určí se nám zbytek
+        digit = number % 10; // určí se nám zbytek
         number = (number - digit) / 10;
-        Cobsole.WriteLine("Hodnota zbytku: {0}", digit)
+        Console.WriteLine("Hodnota zbytku = {0}", digit);
         suma = suma + digit;
-
     }
-    
-    // Musíme poslední cifru vypsat
-    Console.WriteLine("Poslední zbytek = {0}", number)
 
-    // Musíme poslední cifru přičíst
+    // musíme poslední cifru vypsat
+    Console.WriteLine("Poslení zbytek = {0}", number);
+
+    // musíme poslední cifru přičíst
     suma = suma + number;
 
     Console.WriteLine();
     Console.WriteLine("Součet cifer čísla {0} je {1}", numberBackup, suma);
 
-
-
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
-    again = Console.ReadLine();
+    Console.ReadLine();
 
 }

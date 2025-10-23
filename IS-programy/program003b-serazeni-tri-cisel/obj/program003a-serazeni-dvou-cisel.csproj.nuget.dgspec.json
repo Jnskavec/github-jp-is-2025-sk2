@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program003a-serazeni-dvou-cisel\\program003a-serazeni-dvou-cisel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program003a-serazeni-dvou-cisel\\program003a-serazeni-dvou-cisel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program003a-serazeni-dvou-cisel\\program003a-serazeni-dvou-cisel.csproj",
+        "projectName": "program003a-serazeni-dvou-cisel",
+        "projectPath": "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program003a-serazeni-dvou-cisel\\program003a-serazeni-dvou-cisel.csproj",
         "packagesPath": "C:\\Users\\deira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\deira\\Desktop\\aaa\\github-jp-is-2025-sk2\\IS-programy\\program003a-serazeni-dvou-cisel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deira\\AppData\\Roaming\\NuGet\\NuGet.Config"
