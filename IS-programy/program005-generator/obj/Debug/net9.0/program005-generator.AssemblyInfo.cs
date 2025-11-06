@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program003a-serazeni-dvou-cisel")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program005-generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03c2766ff7b4ca1b418cb404d512626a43164771")]
-[assembly: System.Reflection.AssemblyProductAttribute("program003a-serazeni-dvou-cisel")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program003a-serazeni-dvou-cisel")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3863d6646d32306956378c8cb956c877ff4420be")]
+[assembly: System.Reflection.AssemblyProductAttribute("program005-generator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program005-generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

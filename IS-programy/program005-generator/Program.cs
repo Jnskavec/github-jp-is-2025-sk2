@@ -50,15 +50,22 @@ while (again == "a")
 
     //příprava pro využití třídy Random
     Random RandNumb = new Random();
+    // Random RandNumb = new Random(15);
+
 
     Console.WriteLine();   
     Console.WriteLine("Náhodná čísla: ");
     for (int i = 0; i < n; i++)
+
+
     {
         MyRandNumbs[i] = RandNumb.Next(lowerBound, upperBound + 1); // generování čísla a uložení do pole
         Console.WriteLine(MyRandNumbs[i]); // výpis čísla z pole
     }
-
+    {
+        MyRandNumbs[i] = RandNumb.Next(lowerBound, upperBound);
+        Console.WriteLine("{0}", MyRandNumbs[i]);
+    }
 
 
 
