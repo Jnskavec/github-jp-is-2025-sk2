@@ -63,8 +63,8 @@ while (again == "a")
         Console.WriteLine(MyRandNumbs[i]); // výpis čísla z pole
     }
     {
-        MyRandNumbs[i] = RandNumb.Next(lowerBound, upperBound);
-        Console.WriteLine("{0}", MyRandNumbs[i]);
+        MyRandNumbs[n] = RandNumb.Next(lowerBound, upperBound);
+        Console.WriteLine("{0}", MyRandNumbs[n]);
     }
 
 
