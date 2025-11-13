@@ -1,0 +1,15 @@
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\bin\Debug\net9.0\program006-max-min.exe
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\bin\Debug\net9.0\program006-max-min.deps.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\bin\Debug\net9.0\program006-max-min.runtimeconfig.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\bin\Debug\net9.0\program006-max-min.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\bin\Debug\net9.0\program006-max-min.pdb
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\program006-max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\program006-max-min.AssemblyInfoInputs.cache
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\program006-max-min.AssemblyInfo.cs
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\program006-max-min.csproj.CoreCompileInputs.cache
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\program006-max-min.sourcelink.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\program006-max-min.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\refint\program006-max-min.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\program006-max-min.pdb
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\program006-max-min.genruntimeconfig.cache
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program006-max-min\obj\Debug\net9.0\ref\program006-max-min.dll
