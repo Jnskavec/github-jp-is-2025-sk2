@@ -66,21 +66,30 @@ while (again == "a")
     int min = myRandNumbs[0];
     int posMax = 0;
     int posMin = 0;
-    for(int i = 1; i < n ; i++)
+    for (int i = 1; i < n; i++)
     {
-        if(myRandNumbs[i] > max) // 9 > 7
+        if (myRandNumbs[i] > max) // 9 > 7
         {
             max = myRandNumbs[i];
             posMax = i;
         }
-        if(myRandNumbs [i] < min)
+        if (myRandNumbs[i] < min)
         {
             min = myRandNumbs[i];
             posMin = i;
         }
- 
- 
+
     }
+
+    Console.WriteLine();
+    Console.WriteLine("=====================================");
+    Console.WriteLine($"Maximum je {max} na pozici {posMax}");
+    Console.WriteLine($"Minimum je {min} na pozici {posMin}");
+    Console.WriteLine("=====================================");
+    
+    
+    
+    
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
