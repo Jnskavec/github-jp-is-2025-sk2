@@ -3,3 +3,13 @@ C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generato
 C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\obj\Debug\net9.0\program005-generator.AssemblyInfo.cs
 C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\obj\Debug\net9.0\program005-generator.csproj.CoreCompileInputs.cache
 C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\obj\Debug\net9.0\program005-generator.sourcelink.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\bin\Debug\net9.0\program005-generator.exe
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\bin\Debug\net9.0\program005-generator.deps.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\bin\Debug\net9.0\program005-generator.runtimeconfig.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\bin\Debug\net9.0\program005-generator.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\bin\Debug\net9.0\program005-generator.pdb
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\obj\Debug\net9.0\program005-generator.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\obj\Debug\net9.0\refint\program005-generator.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\obj\Debug\net9.0\program005-generator.pdb
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\obj\Debug\net9.0\program005-generator.genruntimeconfig.cache
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program005-generator\obj\Debug\net9.0\ref\program005-generator.dll
