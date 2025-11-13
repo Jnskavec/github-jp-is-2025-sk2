@@ -128,7 +128,7 @@ while (again == "a")
                 }    
             }
 
-          Console.ForegroundColor = ConsoleColor.DarkCyan;   
+          Console.ForegroundColor = ConsoleColor.DarkCyan;   //stanovuje barvu vykreslovaného obrazce
           // vykreslení správného počtu mezer pro každý řádek
           // sp - space (1 mezera) 
           for(int sp = 0; sp < spaces ; sp++)
@@ -140,7 +140,6 @@ while (again == "a")
             Console.Write("*");
 
           Console.WriteLine();
-
 
         } 
         Console.ResetColor();  
