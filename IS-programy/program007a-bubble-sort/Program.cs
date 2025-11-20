@@ -1,6 +1,7 @@
-﻿﻿string again = "a";
+﻿using System.Diagnostics;
+string again = "a";
 while (again == "a")
-{
+
     Console.Clear();
     Console.WriteLine("*********************************************************");
     Console.WriteLine("********************** Bubble sort **********************");
@@ -60,15 +61,14 @@ while (again == "a")
 
     }  
 
+    Stopwatch myStopwatch = new Stopwatch();
 
 
 
             int compare = 0; //počet porovnávání
             int compare = 0; // počet výměn
 
-            compare++;
-            change++;
-
+        myStopwatch.Start();
         for(int i = 0; i < n - 1; i++) {
                 // tento ciklus musí zajistit porovnání dvou sousedních prvků
                 // musí dále zajistit, aby se zmenšoval počet porovnání v každém průchodu
@@ -79,16 +79,22 @@ while (again == "a")
                     int tmp = myRandNumbs[j+1];
                     myRandNumbs[j+1] = myRandNumbs[j];
                     myRandNumbs[j] = tmp;
+                    change++;
                 }
+                compare++;
             }
-        }
+        myStopwatch.Stop();
+
     Console.WriteLine();
     Console.WriteLine();
-    Console.WriteLine("================================");
+    Console.WriteLine("počet porovnání: {compare}");
+    Console.WriteLine("počet výměn: {compare}");
     Console.WriteLine("Seřazená pole");
     Console.WriteLine("================================");
         for(int i = 0; i < n ; i++);
-    
+            Console.Write("{0}; ", myRandNumbs[i]);
+
+        }
 
 
     Console.WriteLine();
