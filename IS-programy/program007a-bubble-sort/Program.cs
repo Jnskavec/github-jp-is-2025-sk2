@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 string again = "a";
 while (again == "a")
-
+{
     Console.Clear();
     Console.WriteLine("*********************************************************");
     Console.WriteLine("********************** Bubble sort **********************");
@@ -13,7 +13,7 @@ while (again == "a")
     Console.WriteLine("*********************************************************");
     Console.WriteLine();
 
-    Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
+Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
     int n;
     while (!int.TryParse(Console.ReadLine(), out n))
     {
@@ -58,45 +58,49 @@ while (again == "a")
     {
         myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
         Console.Write("{0}; ",myRandNumbs[i]);
-
-    }  
+    }
 
     Stopwatch myStopwatch = new Stopwatch();
 
+    int compare = 0;  // počet porovnávání
+    int change = 0;   // počet výměn
 
-
-            int compare = 0; //počet porovnávání
-            int compare = 0; // počet výměn
-
-        myStopwatch.Start();
-        for(int i = 0; i < n - 1; i++) {
-                // tento ciklus musí zajistit porovnání dvou sousedních prvků
-                // musí dále zajistit, aby se zmenšoval počet porovnání v každém průchodu
-            
-            for(int j = 0; j < n - 1 - i; j++) {
-                if (myRandNumbs[j] > myRandNumbs[j++]) {
-                    // swap
-                    int tmp = myRandNumbs[j+1];
-                    myRandNumbs[j+1] = myRandNumbs[j];
-                    myRandNumbs[j] = tmp;
-                    change++;
-                }
-                compare++;
+    myStopwatch.Start();
+    for(int i = 0; i < n -1 ; i++) {
+        // tento cyklus musí zajisti porovnávání dvou soudedních hodnot
+        // musí dále zajistit, aby se zmenšoval počet porovnávaných hodnot
+        for(int j = 0; j < n - i - 1; j++) {
+            if(myRandNumbs[j] > myRandNumbs[j+1]) {
+                int tmp = myRandNumbs[j+1];
+                myRandNumbs[j+1] = myRandNumbs[j];
+                myRandNumbs[j] = tmp;
+                change++;
             }
-        myStopwatch.Stop();
-
-    Console.WriteLine();
-    Console.WriteLine();
-    Console.WriteLine("počet porovnání: {compare}");
-    Console.WriteLine("počet výměn: {compare}");
-    Console.WriteLine("Seřazená pole");
-    Console.WriteLine("================================");
-        for(int i = 0; i < n ; i++);
-            Console.Write("{0}; ", myRandNumbs[i]);
-
+            compare++;
         }
+    }
+    myStopwatch.Stop();
+
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine("==================================");
+    Console.WriteLine("Seřazené pole: ");
+    for(int i = 0; i < n; i++) {
+        Console.Write("{0}; ", myRandNumbs[i]);
+    }
+
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine($"Počet porovnání: {compare}");
+    Console.WriteLine($"Počet výměn: {change}");
+    Console.WriteLine();
+    Console.WriteLine("Čas seřazení čísel pomocí BS: {0}", myStopwatch.Elapsed);
 
 
+
+
+    
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
