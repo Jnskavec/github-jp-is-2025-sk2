@@ -3,13 +3,13 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("*********************************************************");
-    Console.WriteLine("*********** Generátor pseudonáhodných čísel *************");
+    Console.WriteLine("********************** Bubble sort **********************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
-    Console.WriteLine("************* Jan Prskavec ******************");
-    Console.WriteLine("************** 6.11.2025 *******************");
-    Console.WriteLine("********************************************");
-    Console.WriteLine("********************************************");
+    Console.WriteLine("********************** Jan Prskavec *********************");
+    Console.WriteLine("*********************** 6.11.2025 ***********************");
+    Console.WriteLine("*********************************************************");
+    Console.WriteLine("*********************************************************");
     Console.WriteLine();
 
     Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
@@ -61,6 +61,34 @@ while (again == "a")
     }  
 
 
+
+
+            int compare = 0; //počet porovnávání
+            int compare = 0; // počet výměn
+
+            compare++;
+            change++;
+
+        for(int i = 0; i < n - 1; i++) {
+                // tento ciklus musí zajistit porovnání dvou sousedních prvků
+                // musí dále zajistit, aby se zmenšoval počet porovnání v každém průchodu
+            
+            for(int j = 0; j < n - 1 - i; j++) {
+                if (myRandNumbs[j] > myRandNumbs[j++]) {
+                    // swap
+                    int tmp = myRandNumbs[j+1];
+                    myRandNumbs[j+1] = myRandNumbs[j];
+                    myRandNumbs[j] = tmp;
+                }
+            }
+        }
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine("================================");
+    Console.WriteLine("Seřazená pole");
+    Console.WriteLine("================================");
+        for(int i = 0; i < n ; i++);
+    
 
 
     Console.WriteLine();
