@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program00a-zkusebni/1.0.0": {
+        "runtime": {
+          "program00a-zkusebni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program00a-zkusebni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

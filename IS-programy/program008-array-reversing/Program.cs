@@ -1,4 +1,4 @@
-﻿﻿string again = "a";
+﻿string again = "a";
 while (again == "a")
 {
     Console.Clear();
@@ -11,7 +11,7 @@ while (again == "a")
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine();
-    
+
     Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
     int n;
     while (!int.TryParse(Console.ReadLine(), out n))
@@ -53,6 +53,7 @@ while (again == "a")
     
     Console.WriteLine();
     Console.WriteLine("Náhodná čísla: ");
+    
     for(int i = 0; i < n ; i++)
     {
         myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
@@ -60,8 +61,18 @@ while (again == "a")
 
     }  
 
+    for(int i=0; i < n/2  ; i++) {
+        int tmp = myRandNumbs[i];
+        myRandNumbs[i] = myRandNumbs[n - i - 1];
+        myRandNumbs[n - i - 1] = tmp;
+    }
 
-
+    Console.WriteLine();
+    Console.WriteLine("=====================================");
+    Console.WriteLine("Pole po reverzi:");
+    for(int i=0; i < n; i++) {
+        Console.Write("{0}; ",myRandNumbs[i]);
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
