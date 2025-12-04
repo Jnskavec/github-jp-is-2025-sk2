@@ -1,0 +1,15 @@
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\bin\Debug\net9.0\program011-vypocet-pi.exe
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\bin\Debug\net9.0\program011-vypocet-pi.deps.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\bin\Debug\net9.0\program011-vypocet-pi.runtimeconfig.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\bin\Debug\net9.0\program011-vypocet-pi.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\bin\Debug\net9.0\program011-vypocet-pi.pdb
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\program011-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\program011-vypocet-pi.AssemblyInfoInputs.cache
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\program011-vypocet-pi.AssemblyInfo.cs
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\program011-vypocet-pi.csproj.CoreCompileInputs.cache
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\program011-vypocet-pi.sourcelink.json
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\program011-vypocet-pi.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\refint\program011-vypocet-pi.dll
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\program011-vypocet-pi.pdb
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\program011-vypocet-pi.genruntimeconfig.cache
+C:\Users\deira\Desktop\aaa\github-jp-is-2025-sk2\IS-programy\program011-vypocet-pi\obj\Debug\net9.0\ref\program011-vypocet-pi.dll
